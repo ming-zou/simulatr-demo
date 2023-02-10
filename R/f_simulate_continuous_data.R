@@ -8,7 +8,11 @@
 #' groups.
 #'
 #' @param n1 a single integer value. The sample size of group 1.
-#' TODO document all arguments
+#' @param n2 a single integer value. The sample size of group 1.
+#' @param mean1 a single nuermic
+#' @param mean2 numeric
+#' @param sd1 numeric
+#' @param seed seed of course
 #'
 #' @details
 #' TODO describe
